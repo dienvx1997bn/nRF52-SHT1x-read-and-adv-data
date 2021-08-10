@@ -1,0 +1,1 @@
+# nRF52-SHT1x-read-and-adv-data
